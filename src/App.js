@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Here's my PR change
+          Here's my PR change and updated configs for PR requirement.
         </p>
         <a
           className="App-link"
